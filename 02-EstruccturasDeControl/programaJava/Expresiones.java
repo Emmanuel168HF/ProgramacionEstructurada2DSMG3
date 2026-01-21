@@ -6,14 +6,10 @@ public class Expresiones {
     public static void main(String[] args) {
         int suma;
         int resta;
-        int multi, div, mod, area;
-        double resultado = 0.0, potencia;
-        boolean valor = true, valor2 = false;
-        float f1 = 8.9f, f2 = (float)10.3;
-        double d1 = 12;
+        int multi, div, mod;
+        double potencia;
 
         //definir constante
-        final double PI = 3.1416;
         String salida = "";
         //expresion aritmetica
         suma = 3 + 5;

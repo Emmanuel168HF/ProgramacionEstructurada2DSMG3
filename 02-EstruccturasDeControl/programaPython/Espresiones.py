@@ -11,8 +11,7 @@ def main():
     mod = 10 % 2
     potencia = math.pow(4, 2)
 
-    # Constante
-    PI = 3.1416
+   
 
     # Salida
     salida = (
